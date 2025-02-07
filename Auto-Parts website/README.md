@@ -23,3 +23,4 @@
 ## Deployment Process:
 - The website was deployed using GitHub Pages and Netlify. The process involved pushing the HTML, CSS, and JavaScript files to a GitHub repository. After that, I enabled GitHub Pages within the repository settings and chose the main branch as the source. This allowed me to deploy the website quickly and efficiently with no server configuration required.
 
+- Live demo: [amosautos](https://amosautos.netlify.app/)

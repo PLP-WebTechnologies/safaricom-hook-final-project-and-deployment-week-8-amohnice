@@ -40,6 +40,7 @@
 
 - Live demo: [amosautos](https://amosautos.netlify.app/)
 - Github pages: [amosautos](https://amohnice.github.io/amosautos/)
+- Local repository: 'https://github.com/amohnice/amosautos.git'
 
 # Landing Page with Light and Dark Mode
 ## Light Mode Image
